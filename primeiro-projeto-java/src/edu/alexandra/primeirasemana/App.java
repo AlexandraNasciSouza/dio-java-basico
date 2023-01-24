@@ -1,3 +1,4 @@
+package edu.alexandra.primeirasemana;
 public class App {
     public static void main (String[] args) {
         
